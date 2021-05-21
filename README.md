@@ -1,5 +1,4 @@
-# LIKE PREDICTION & CLUSTERING OF DINING SITES IN
-INDIAN METRO CITIES
+# LIKE PREDICTION & CLUSTERING OF DINING SITES IN INDIAN METRO CITIES
 
 India boasts an incredibly diverse collection of restaurants catering to different palettes and appetites. A large part of marketing for a modern restaurant (or any company) is social media, where the number of "likes" that the company can receive will dictate its brand and image to the public. For a new food business owner (or existing company) to open a new restaurant in India, knowing ahead of time the potential social media image they can have would provide an excellent solution to the ever-present business problem of uncertainty. In this case the uncertainty is regarding performance of social media presence.
 
